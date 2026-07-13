@@ -1,10 +1,18 @@
-# 📈 Quantitative Trading Engine with Machine Learning
+# Quantitative Trading Engine with Machine Learning
 
 Sebuah *framework quantitative trading* mandiri yang dibangun untuk melakukan analisis prediktif pada pasar keuangan menggunakan Machine Learning (bukan LLM API wrapper). Project ini mengintegrasikan pemodelan statistik, *machine learning regression*, serta infrastruktur *backtesting* kustom untuk menciptakan strategi trading yang objektif dan terukur.
 
 ---
 
-## 🎯 Project Goals & Core Architecture
+## Link
+* **Hypothesis Tracking:** [hypothesis tracking link spreadsheet](https://docs.google.com/spreadsheets/d/1mzbihlsBxcwhvjVNMJ7ibxpQVFshasBKvbsUpme6Jz4/edit?usp=sharing)
+* **Model Comparasion:** [model comparasion link spreadsheet](https://docs.google.com/spreadsheets/d/1eAXHfsXk74ifI_KrSU7mtOuta8I_UNU43M6Z11Swrg0/edit?usp=sharing)
+* **WalkForward Results:** [walk forward results link spreadsheet](https://docs.google.com/spreadsheets/d/1hyBrVgE2pgT8q8QXa0fDZ4u3p6LPZPfCSpgpKkhgMqI/edit?usp=sharing)
+* **Dataset:** [datasets](https://drive.google.com/drive/folders/1wyeSz0Gq6IjsYwwt7iVQsTKbNADKtJnK?usp=sharing)
+
+---
+
+## Project Goals & Core Architecture
 Project ini fokus pada penerapan sains data murni ke dalam market keuangan dengan pilar utama:
 * **True Machine Learning Integration:** Menggunakan algoritma **Ridge Regression** dan **Random Forest** sebagai *predictive engine* utama.
 * **Hybrid Approach:** Mengombinasikan kekuatan *statistical forecasting* (analisis deret waktu/ekonometrika) dengan fleksibilitas model ML.
@@ -12,7 +20,7 @@ Project ini fokus pada penerapan sains data murni ke dalam market keuangan denga
 
 ---
 
-## 🚀 Roadmap & Milestones
+## Roadmap & Milestones
 
 ### Phase 1: Data Infrastructure & Baseline
 * [ ] **Historical Data Harvesting:** Mengumpulkan dan membersihkan data historis berkualitas tinggi untuk 1 target *currency pair*.
@@ -29,12 +37,12 @@ Project ini fokus pada penerapan sains data murni ke dalam market keuangan denga
 
 ---
 
-## 🔬 The Ultimate Challenge: Researching
+## The Ultimate Challenge: Researching
 Tantangan terbesar dari project ini bukanlah menulis kodenya, melainkan **Proses Riset**. Menemukan *features* yang memiliki daya prediksi kuat, menjinakkan *noise* di market, serta memastikan model tetap tangguh saat menghadapi perubahan rezim pasar (*market regime shifts*) adalah fokus riset utama dalam repositori ini.
 
 ---
 
-## 🛠️ Tech Stack (Planned)
+## Tech Stack (Planned)
 * **Language:** Python
 * **Data & ML:** Pandas, NumPy, Scikit-Learn, Statsmodels
 * **Execution:** MetaTrader 5 Python API
