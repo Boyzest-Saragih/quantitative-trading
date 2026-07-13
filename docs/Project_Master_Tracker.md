@@ -19,7 +19,7 @@
 | Phase | Status | Start | End | Deliverable | Complete? |
 |-------|--------|-------|-----|-------------|-----------|
 | 0. Setup | [Done] | [2026-07-13] | [2026-07-13] | Environment ready | [yes] |
-| 1. Data Collection | [In Progress] | [2026-07-13] | [2026-07-13] | Clean CSV 10 tahun | [ ] |
+| 1. Data Collection | [In Progress] | [2026-07-13] | [2026-07-13] | Clean CSV 10 tahun | [yes] |
 | 2. EDA | [ ] | [ ] | [ ] | 20 grafik + insight | [ ] |
 | 3. Hypothesis | [ ] | [ ] | [ ] | 30 hipotesis | [ ] |
 | 4. Statistical Validation | [ ] | [ ] | [ ] | Tested hypotheses | [ ] |
