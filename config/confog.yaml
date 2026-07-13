@@ -1,0 +1,10 @@
+market:
+  symbol: XAUUSDT
+  timeframe: m15
+
+backtest:
+  initial_capital: 10000
+  fee: 0.001
+
+model:
+  random_seed: 42

@@ -4,9 +4,9 @@
 | Field | Value |
 |-------|-------|
 | Project Name | [QuantResearch - XAUUSD] |
-| Start Date | [YYYY-MM-DD] |
-| Target Completion | [YYYY-MM-DD] |
-| Current Phase | [Phase X] |
+| Start Date | [2026-07-13] |
+| Target Completion | [2026-10-30] |
+| Current Phase | [Phase II] |
 | Total Hypotheses | [0 / 30] |
 | Accepted | [0] |
 | Rejected | [0] |
@@ -18,8 +18,8 @@
 
 | Phase | Status | Start | End | Deliverable | Complete? |
 |-------|--------|-------|-----|-------------|-----------|
-| 0. Setup | [ ] | [ ] | [ ] | Environment ready | [ ] |
-| 1. Data Collection | [ ] | [ ] | [ ] | Clean CSV 10 tahun | [ ] |
+| 0. Setup | [Done] | [2026-07-13] | [2026-07-13] | Environment ready | [yes] |
+| 1. Data Collection | [In Progress] | [2026-07-13] | [2026-07-13] | Clean CSV 10 tahun | [ ] |
 | 2. EDA | [ ] | [ ] | [ ] | 20 grafik + insight | [ ] |
 | 3. Hypothesis | [ ] | [ ] | [ ] | 30 hipotesis | [ ] |
 | 4. Statistical Validation | [ ] | [ ] | [ ] | Tested hypotheses | [ ] |
@@ -38,17 +38,17 @@
 
 ### Hypotheses
 ```
-Total:     [30]
-Accepted:  [ 2] ████░░░░░░░░░░░░░░░░
-Rejected:  [25] ██████████████████████
-On Hold:   [ 3] ███░░░░░░░░░░░░░░░░░░░
+Total:     [0]
+Accepted:  [0] ████░░░░░░░░░░░░░░░░
+Rejected:  [0] ██████████████████████
+On Hold:   [0] ███░░░░░░░░░░░░░░░░░░░
 ```
 
 ### Models
 ```
-Logistic Regression:  [REJECTED]
-Decision Tree:        [REJECTED]
-Random Forest:        [TESTING]
+Logistic Regression:  [PENDING]
+Decision Tree:        [PENDING]
+Random Forest:        [PENDING]
 Gradient Boosting:    [PENDING]
 XGBoost:              [PENDING]
 LightGBM:             [PENDING]
